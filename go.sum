@@ -333,8 +333,6 @@ github.com/circonus-labs/circonus-gometrics v2.3.1+incompatible/go.mod h1:nmEj6D
 github.com/circonus-labs/circonusllhist v0.1.3/go.mod h1:kMXHVDlOchFAehlya5ePtbp5jckzBHf4XRpQvBOLI+I=
 github.com/classic-terra/cometbft v0.34.29-terra.0 h1:HnRGt7tijI2n5zSVrg/xh1mYYm4Gb4QFlknq+dRP8Jw=
 github.com/classic-terra/cometbft v0.34.29-terra.0/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
-github.com/classic-terra/cosmos-sdk v0.46.14-terra.4 h1:GRgKTxC5n+5CqxtqkoJ+fNwGO4y+F9UATvolzfhEc38=
-github.com/classic-terra/cosmos-sdk v0.46.14-terra.4/go.mod h1:3VKRzlOtvuqZA29wRqdx6rPsJmYhvxjJyc3tvQWpjf4=
 github.com/classic-terra/goleveldb v0.0.0-20230914223247-2b28f6655121 h1:fjpWDB0hm225wYg9vunyDyTH8ftd5xEUgINJKidj+Tw=
 github.com/classic-terra/goleveldb v0.0.0-20230914223247-2b28f6655121/go.mod h1:q4W45IWZaF22tdD+VEXcAWRA037jwmWEB5VWYORlTpc=
 github.com/classic-terra/wasmd v0.30.0-terra.3 h1:qruhiaAIRl14UVtHzfh81pr0YmW94QE4+hqivIi9AYg=
@@ -872,6 +870,8 @@ github.com/mimoo/StrobeGo v0.0.0-20210601165009-122bf33a46e0 h1:QRUSJEgZn2Snx0Em
 github.com/mimoo/StrobeGo v0.0.0-20210601165009-122bf33a46e0/go.mod h1:43+3pMjjKimDBf5Kr4ZFNGbLql1zKkbImw+fZbw3geM=
 github.com/minio/highwayhash v1.0.2 h1:Aak5U0nElisjDCfPSG79Tgzkn2gl66NxOMspRrKnA/g=
 github.com/minio/highwayhash v1.0.2/go.mod h1:BQskDq+xkJ12lmlUUi7U0M5Swg3EWR+dLTk+kldvVxY=
+github.com/mint-cash/terra-classic-cosmos-sdk v0.0.1 h1:JEybeuWj5AG8h8U7WyqRUlwxzjbakMjp25tv/POX3ao=
+github.com/mint-cash/terra-classic-cosmos-sdk v0.0.1/go.mod h1:3VKRzlOtvuqZA29wRqdx6rPsJmYhvxjJyc3tvQWpjf4=
 github.com/mitchellh/cli v1.0.0/go.mod h1:hNIlj7HEI86fIcpObd7a0FcrxTWetlwJDGcceTlRvqc=
 github.com/mitchellh/go-homedir v1.0.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
 github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
